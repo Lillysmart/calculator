@@ -1,3 +1,10 @@
 body{
-    background-color: blue;
+    background-color: wheat;
+}
+table {
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+  
 }
