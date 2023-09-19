@@ -23,7 +23,7 @@ input[type='button'] {
     font-weight:bolder;
    
 }
-input[type="text"] {
+input[type="text"]{
     width: 200px ;
     padding: 10px;
     border-radius: 50px;
